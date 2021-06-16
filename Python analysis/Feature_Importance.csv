@@ -1,0 +1,38 @@
+Feature,Feature_Coefficient
+latitude,-38.66616156973293
+longitude,28.629744556816885
+accommodates,14.715225713767694
+bedrooms,15.967340159050627
+beds,-0.6673315142923575
+minimum_nights,0.5452181059740937
+minimum_minimum_nights,-0.5669229056210856
+reviews_per_month,-4.345507965553704
+amenities_number,0.9756796168765494
+host_is_superhost_t,3.217310903557191
+host_has_profile_pic_t,9.326022959030535
+host_identity_verified_t,-0.8531403114369575
+neighbourhood_cleansed_Bijlmer-Oost,12.247239564591794
+neighbourhood_cleansed_Bos en Lommer,28.039599142721862
+neighbourhood_cleansed_Buitenveldert - Zuidas,25.83607177357523
+neighbourhood_cleansed_Centrum-Oost,59.57498052877892
+neighbourhood_cleansed_Centrum-West,63.043523345691334
+neighbourhood_cleansed_De Aker - Nieuw Sloten,19.28062384311693
+neighbourhood_cleansed_De Baarsjes - Oud-West,44.272670822224875
+neighbourhood_cleansed_De Pijp - Rivierenbuurt,49.00321809531673
+neighbourhood_cleansed_Gaasperdam - Driemond,4.3606864862532495
+neighbourhood_cleansed_Geuzenveld - Slotermeer,17.330326155153507
+neighbourhood_cleansed_IJburg - Zeeburgereiland,25.05215847296436
+neighbourhood_cleansed_Noord-Oost,14.70719404959865
+neighbourhood_cleansed_Noord-West,14.939487888824006
+neighbourhood_cleansed_Oostelijk Havengebied - Indische Buurt,27.42394149431031
+neighbourhood_cleansed_Osdorp,16.721592431889057
+neighbourhood_cleansed_Oud-Noord,25.31559921753181
+neighbourhood_cleansed_Oud-Oost,39.335382164414504
+neighbourhood_cleansed_Slotervaart,22.546424664469235
+neighbourhood_cleansed_Watergraafsmeer,25.446859238509163
+neighbourhood_cleansed_Westerpark,46.342796556953644
+neighbourhood_cleansed_Zuid,47.84422450804645
+room_type_Hotel room,-20.81497475822487
+room_type_Private room,-37.950318394920856
+room_type_Shared room,-41.53984309151538
+instant_bookable_t,-1.6526281650614414
